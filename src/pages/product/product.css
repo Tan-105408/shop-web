@@ -1,0 +1,10 @@
+.product{
+    width: 250px !important;
+    height: 300px;
+}
+.btadd{
+    margin-top: 210px;
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+}

@@ -1,0 +1,41 @@
+/* src/pages/checkout/Checkout.css */
+.checkout {
+    max-width: 600px;
+    margin-top: 150px !important;
+    margin-bottom: 100px !important;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .checkout-item {
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+  }
+  
+  .checkout-item h4 {
+    margin: 0;
+  }
+  
+  .checkout-total {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  

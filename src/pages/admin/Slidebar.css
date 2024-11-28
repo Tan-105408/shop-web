@@ -1,0 +1,25 @@
+.slidebar {
+    width: 200px;
+    background-color: #f9f6f6;
+    padding: 10px;
+    margin-left: -20px;
+  }
+  
+  .sidebar h2 {
+    text-align: center;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    margin: 10px 0;
+  }
+  
+  .content {
+    margin-left: 50px !important; /* Đẩy phần nội dung sang phải để phù hợp với sidebar */
+    padding: 20px;
+  }
+  

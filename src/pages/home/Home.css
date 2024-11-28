@@ -1,0 +1,23 @@
+/* src/pages/home/Home.css */
+.home {
+    text-align: center;
+    margin-bottom: 150px;
+    margin-top: 150px;
+  }
+  
+  .product-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .product, .cart-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,32 @@
+/* src/components/Footer.css */
+.footer {
+    background-color: #282c34;
+    padding: inherit;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+  }
+  
+  .footer nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .footer nav li {
+    margin-left: 20px;
+  }
+  
+  .footer nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer nav a:hover {
+    text-decoration: underline;
+  }
+  
